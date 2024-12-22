@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Shankar. 
+I'll update this later, Thanks for checking it out
 
 <!--
 **Shankar0310/Shankar0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
